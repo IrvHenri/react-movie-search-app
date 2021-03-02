@@ -1,4 +1,4 @@
-# React Movie Search
+# React Movie Search App
 
 A movie search app which uses the MovieDB API to retrieve and render search results.
  "async await"
