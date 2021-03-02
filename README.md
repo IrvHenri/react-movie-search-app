@@ -1,7 +1,7 @@
 # React Movie Search App
 
 A movie search app which uses the MovieDB API to retrieve and render search results.
- "async await"
+
 
 ## Demo
 https://the-react-movie-search-app.herokuapp.com/
